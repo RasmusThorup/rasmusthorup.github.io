@@ -1,0 +1,82 @@
+{
+    "talks":[
+        {
+            "title":"Develop:Brighton - 2024",
+            "content":"Battlefield 2042 - Growing the Audio Experience Through an Evolving Game",
+            "credits":"Presenters:\nDanijel Djuric & Rasmus Brun Thorup",
+            "titlePic":"assets/images/Talks/talks_develop_titlepic.jpg",
+            "pic1":"assets/images/Talks/talks_develop_pic1.jpg",
+            "pic2":"assets/images/Talks/talks_develop_pic2.jpg",
+            "link":"https://www.developconference.com/speakers/rasmus-brun-thorup",
+            "linkPic":"assets/images/Talks/talks_develop_linkpic.jpg"
+        },
+        {
+            "title":"Sonic Days - 2022",
+            "content":"UI & Levolution - Insights into the designs and approaches when making the biggest and smallest sounds in Battlefield 2042",
+            "credits":"Presenters:\nMikael Grolander & Rasmus Brun Thorup",
+            "titlePic":"assets/images/Talks/talks_sonic_titlepic.jpg",
+            "pic1":"assets/images/Talks/talks_sonic_pic1.jpg",
+            "pic2":"assets/images/Talks/talks_sonic_pic2.jpg",
+            "link":"https://soniccollege.org/sonic-days/program-2022/ui-levolution-insights-into-the-designs-and-approaches-when-making-the-biggest-and-smallest-sounds-in-battlefield-2042/",
+            "linkPic":"assets/images/Talks/talks_sonic_linkpic.jpg"
+        },
+        {
+            "title":"The Thing - 2022",
+            "content":"UI & Levolution - Insights into the designs and approaches when making the biggest and smallest sounds in Battlefield 2042 (Same as at Sonic College)",
+            "credits":"Presenters:\nMikael Grolander & Rasmus Brun Thorup",
+            "titlePic":"assets/images/Talks/talks_thething_titlepic.jpg",
+            "pic1":"assets/images/Talks/talks_thething_pic1.jpg",
+            "pic2":"assets/images/Talks/talks_thething_pic2.jpg",
+            "link":"https://gamedevforce.com/projects/thething",
+            "linkPic":"assets/images/Talks/talks_thething_linkpic.jpg"
+        }
+    ],
+    "experiences":[
+        {
+            "title":"EA DICE",
+            "year":"2024-Now",
+            "position":"Senior Sound Designer",
+            "image":"assets/images/Experiences/Unnanounced.jpeg",
+            "description":"Working on unnanounced project!"
+        },
+        {
+            "title":"EA DICE",
+            "year":"2020-2024",
+            "position":"Sound Designer",
+            "image":"assets/images/Experiences/BF2042.jpeg",
+            "description":"BF 2042 & 7 Seasons of Live Service.\nWorked primarily on Storm Sounds, UI & Music.\n\nDuring main production I helped develop the UI Sound Style as well as designing and implementing the Tornado sounds and Storm ambiences.\nIn Live service I picked up music implementation and communication with the composers."
+        },
+        {
+            "title":"EA DICE",
+            "year":"2019-2020",
+            "position":"Sound Design Intern",
+            "image":"assets/images/Experiences/BFVPacific.jpeg",
+            "description":"BFV Live service (Pacific)\nWorked on Level Audio and Ambiences.\n\nAlso designed and implemented the\nWake Island Crab Rave Easter Egg."
+        },
+        {
+            "title":"Sonic College",
+            "year":"2016-2020",
+            "position":"Student",
+            "image":"assets/images/Experiences/Sonic.jpeg",
+            "description":"Bachelors degree in Sono- & Media Communication at Sonic College in Denmark.\n\nThe Programme is a professional foundation in music and sound production, with an equal focus on the commercial, communicative and artistic aspects - mainly taught by working industry professionals."
+        }
+    ],
+    "portfolio":[
+        {
+            "title":"EA Global Gamejam - 'A Sleepless night'",
+            "year":"2021",
+            "image":"assets/images/Portfolio/portfolio_asleeplessnight.jpg",
+            "video":"mY8qBHmNIP0",
+            "link":"https://www.ea.com/ea-game-jam",
+            "description":"During Covid lockdown, I joined the EA Gamejam with others from the DICE audio team. \nWe designed, planned and developed the game 'A Sleepless night' in a week in Unity and ended up winning the EA Global Gamejam with our entry!\n\nMore info and a playable build can be found on the EA website by clicking 'More Info'.\nOr you can watch a quick intro video below."
+        },
+        {
+            "title":"BFV Easter Egg - 'Pacific Rave'",
+            "year":"2019",
+            "image":"assets/images/Portfolio/portfolio_bfvpacific.jpg",
+            "video":"ryYqHUQd7Jk",
+            "link":"https://www.soundcloud.com/battlefield_official/pacific-rave",
+            "description":"During my time working on BFV I designed and implemented the 'Pacific Rave' Easter Egg on Wake Island.\nThe Easter Egg was a big success and was featured in multiple articles and videos.\n\nOne such example is the video made by JackFrags, which you can watch below.\nOr you can go to the Battlefield Soundcloud by clicking 'More Info' and listen to the BF Rave song I made for this Easter Egg."
+        }
+    ]
+}
